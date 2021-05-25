@@ -1,0 +1,29 @@
+{
+  "name": "fast-store",
+  "version": "1.0.0",
+  "description": "Lightweight and fast data cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test  --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leedow/fast-store.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cache"
+  ],
+  "author": "leedow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leedow/fast-store/issues"
+  },
+  "homepage": "https://github.com/leedow/fast-store#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "dependencies": {
+    "bone-time": "^1.0.7"
+  }
+}
